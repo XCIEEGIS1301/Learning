@@ -1,1 +1,4 @@
-写下你的相关说明
+XDocReport Samples
+==================
+
+[![Build Status](https://secure.travis-ci.org/opensagres/xdocreport.samples.png)](http://travis-ci.org/opensagres/xdocreport.samples)
