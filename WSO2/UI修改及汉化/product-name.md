@@ -2,7 +2,7 @@
 
 ![](./img/0.png)
 
-这两部分的信息定义在如下文件中（关于此文件的更多信息，参考[Carbon 平台页面汉化](./carbon.md)）：
+这部分的信息定义在如下文件中（关于此文件的更多信息，参考[Carbon 平台页面汉化](./carbon.md)）：
 
 > esb-home/repository/components/plugins/org.wso2.carbon.i18n_4.4.9.jar/org/wso2/carbon/i18n/Resources.properties
 
@@ -60,3 +60,4 @@ carbon.console.welcome=Welcome to the {0} Management Console
 </p>
 ...
 ```
+从源码中可以看到**占位符不能去掉**。
